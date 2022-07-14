@@ -94,7 +94,7 @@
       "name": "Test10",
       "setup": "",
       "run": "python3 validname.py",
-      "input": "",
+      "input": "\r\n",
       "output": "True",
       "comparison": "included",
       "timeout": 1,
